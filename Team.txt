@@ -21,3 +21,6 @@ midfielder
 midfielder
 striker
 striker
+---------
+Technical Committee
+Coach
